@@ -1,0 +1,36 @@
+.titre {
+    display: flex;
+    justify-content: center;
+}
+
+.demande_rdv {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.322);
+    width: 350px;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+}
+
+button {
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    background-color: #e1342d;
+    font-family: 'Nunito', sans-serif; 
+}

@@ -1,0 +1,65 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav_bar {
+    display: flex;
+}
+
+.quadran {
+    display: flex;
+    margin-top: -90px;
+}
+
+.inscription {
+    display: flex;
+    margin-top: 80px;
+    margin-left: auto;
+}
+ 
+.connexion {
+    display: flex;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.logo_f {
+    display: flex;
+    margin-left: auto;
+    margin-top: 30px;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.button {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    background-color: #e1342d;
+}
+
+.button_rdv {
+    display: flex;
+    margin: auto;
+    margin-top: 80px;
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    background-color: #e1342d;
+    font-family: 'Nunito', sans-serif; 
+}
+
